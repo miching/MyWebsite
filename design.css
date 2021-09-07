@@ -1,0 +1,73 @@
+body {background-color: lightblue;
+      color: purple;
+font-size: large}
+
+h1{color: black;
+   text-align: center;}
+
+h2{color:white;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+    text-align: center;}
+
+h3{color: black;
+    text-align: left;}
+
+h4{color: yellow;
+    text-align: right;
+    font-size: large;}
+
+h5{color: black;
+    text-align: center;}
+
+#border{
+        border-radius: 25px;
+        background-color: darkblue;
+        height: 20px     
+}
+
+
+/*
+#team {
+        background-image: url(1-2.png);
+        background-size: contain;
+        background-repeat: no-repeat;
+        background-position: right;
+        padding: 200px; 
+        position: absolute;
+        right: 25px;
+}
+*/ 
+
+
+#city {
+        margin: auto;
+        width:350px;
+        height: 200px;
+        padding: 1px;
+        border:solid gold;
+        background-image: url(san-francisco.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        }
+        
+        
+#about {border-radius: 25px;
+        background-color: orange;
+        padding: 15px; 
+        width: 450px;
+        height: 180px;
+        box-shadow: 10px 10px;
+        }
+
+
+#courses {border-radius: 25px;
+          background-color: lightpink;
+          padding: 15px; 
+          width: 550px;
+          height: 200px;
+          box-shadow: 10px 10px;
+         }
+
+
+.link{color:yellow;
+text-shadow: 0 0 3px #FF0000;}
