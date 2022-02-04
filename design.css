@@ -53,7 +53,7 @@ h5{color: black;
         
         
 #about {border-radius: 25px;
-        background-color: orange;
+        background-color: gainsboro;
         padding: 15px; 
         width: 450px;
         height: 180px;
@@ -65,9 +65,18 @@ h5{color: black;
           background-color: lightpink;
           padding: 15px; 
           width: 550px;
-          height: 200px;
+          height: 250px;
           box-shadow: 10px 10px;
          }
+
+
+#coursesNow {border-radius: 25px;
+                  background-color: orange;
+                  padding: 15px; 
+                  width: 550px;
+                  height: 150px;
+                  box-shadow: 10px 10px;
+                 }
 
 
 .link{color:yellow;
